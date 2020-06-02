@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.exe
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.deps.json
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.runtimeconfig.json
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.dll
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.pdb
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.AssemblyInfo.cs
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.dll
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.pdb
+D:\Users\gusta\Desktop\Senai\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.genruntimeconfig.cache
